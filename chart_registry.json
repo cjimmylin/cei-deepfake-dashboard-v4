@@ -1,0 +1,25 @@
+{
+  "tabs": {
+    "landing": {
+      "blocks": ["_howToRead"]
+    },
+    "overview": {
+      "blocks": ["_exec", "chartTierDonut", "chartOrgType", "chartYearLine", "top10Table"]
+    },
+    "dimensions": {
+      "blocks": ["_exec", "chartHeatmap", "chartDimCoverage", "chartDimMean"]
+    },
+    "geographic": {
+      "blocks": ["_exec", "chartCountryBar", "chartRegionBar", "chartRegionTier"]
+    },
+    "orgtype": {
+      "blocks": ["_exec", "chartOrgTier", "chartOrgRadar"]
+    },
+    "anchors": {
+      "blocks": ["_exec", "anchorTable", "dpaAnchorRow", "chartAnchorRadar", "chartVictimGap"]
+    },
+    "browser": {
+      "blocks": ["_exec"]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Deepfake Governance Dashboard"
+message: "If you use this dashboard or its underlying corpus, please cite it as below."
+type: dataset
+authors:
+  - name: "Tapestry Research Council"
+version: "4.0.0"
+date-released: "2026-04-14"
+url: "https://cjimmylin.github.io/cei-deepfake-dashboard-v4/"
+repository-code: "https://github.com/cjimmylin/cei-deepfake-dashboard-v4"
+license: "CC-BY-4.0 AND MIT"
+keywords:
+  - "deepfake"
+  - "governance"
+  - "AI ethics"
+  - "nonconsensual intimate imagery"
+  - "policy corpus"
+abstract: "Interactive dashboard visualising 1,446 deepfake-governance provisions across 25 dimensions drawn from a global corpus of 3,008 AI-governance statements. Companion to 'Human Dignity and Nonconsensual Deepfakes: A Global Governance Landscape.'"
+references:
+  - type: generic
+    title: "Deepfake Governance Dashboard v3"
+    url: "https://cjimmylin.github.io/cei-deepfake-dashboard-v3/"
+    notes: "Superseded by v4; retained for reproducibility."
+  - type: generic
+    title: "Deepfake Governance Dashboard v2"
+    url: "https://cjimmylin.github.io/cei-deepfake-dashboard-v2/"
+  - type: generic
+    title: "Deepfake Governance Dashboard v1"
+    url: "https://cjimmylin.github.io/cei-deepfake-dashboard/"
